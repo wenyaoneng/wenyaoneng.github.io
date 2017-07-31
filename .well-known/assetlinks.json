@@ -6,5 +6,12 @@
       "package_name": "cn.cj.pe",
       "sha256_cert_fingerprints": ["8D:4E:D1:5A:7D:9B:BF:E3:CF:3E:C2:4E:31:A5:F5:2A:C5:8F:EF:74:2E:3A:B6:7B:1B:A1:C9:7A:0E:22:72:E9"]
     }
+  },{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "lib.vincent.com.applinkstest",
+      "sha256_cert_fingerprints": ["8D:4E:D1:5A:7D:9B:BF:E3:CF:3E:C2:4E:31:A5:F5:2A:C5:8F:EF:74:2E:3A:B6:7B:1B:A1:C9:7A:0E:22:72:E9"]
+    }
   }
 ]
