@@ -10,17 +10,5 @@
                 "8D:4E:D1:5A:7D:9B:BF:E3:CF:3E:C2:4E:31:A5:F5:2A:C5:8F:EF:74:2E:3A:B6:7B:1B:A1:C9:7A:0E:22:72:E9"
             ]
         }
-    },
-    {
-        "relation": [
-            "delegate_permission/common.handle_all_urls"
-        ],
-        "target": {
-            "namespace": "android_app",
-            "package_name": "com.recipe_app",
-            "sha256_cert_fingerprints": [
-                "83:F6:CF:7E:70:A0:F7:59:98:F0:02:1F:9B:6E:66:1A:83:E1:C7:04:29:B1:B7:2A:61:53:C7:C2:9B:D5:78:53"
-            ]
-        }
     }
 ]
