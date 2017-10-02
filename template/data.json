@@ -1,0 +1,26 @@
+[
+    {
+        "ItemName": "法国干红",
+        "QTY": "9",
+        "Barcode": "2001020304",
+        "Foundation": "法国",
+        "ImgUrl": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=4110681437,553546563&fm=11&gp=0.jpg",
+        "BatchNum": "B201709159870"
+    },
+    {
+        "ItemName": "上帝之手",
+        "QTY": "100",
+        "Barcode": "2001038738",
+        "Foundation": "法国法国法国法国法国法国法国法国法国法国法国法国法国法国",
+        "ImgUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1506944608872&di=6ef48ada7b81de898509c6a75a110956&imgtype=0&src=http%3A%2F%2Fc.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2Fd000baa1cd11728ba5e562e2c1fcc3cec2fd2c22.jpg",
+        "BatchNum": "B201709159870"
+    },
+    {
+        "ItemName": "赤露珠",
+        "QTY": "10",
+        "Barcode": "2001030308",
+        "Foundation": "法国",
+        "ImgUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1506944608872&di=6c4d63458b7e5320f8889f8bbab16819&imgtype=0&src=http%3A%2F%2Ff.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2F38dbb6fd5266d016fc1974e89e2bd40734fa35ea.jpg",
+        "BatchNum": "B201709159870"
+    }
+]
